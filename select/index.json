@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ロックオン",
+  "base_artist": "MAISONdes",
+  "createdAt": "2026-01-12T11:18:23.892906Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ロックオン",
+      "artist": "MAISONdes feat. はしメロ & 巡巡",
+      "has_synced": true,
+      "path": "select/01_ロックオン_MAISONdes_feat._はしメロ_&_巡巡.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ロックオン",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/02_ロックオン_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ロックオン",
+      "artist": "MAISONdes feat. Hashimero & Megurimeguru",
+      "has_synced": true,
+      "path": "select/03_ロックオン_MAISONdes_feat._Hashimero_&_Megurimeguru.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ロックオン - Lock-on (feat. Hashimero",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/04_ロックオン_-_Lock-on_(feat._Hashimero_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ロックオン",
+      "artist": "KARA",
+      "has_synced": false,
+      "path": "select/05_ロックオン_KARA.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "【609】[feat. はしメロ, 巡巡] ロックオン / MAISONdes",
+      "artist": "MAISONdes",
+      "has_synced": false,
+      "path": "select/06_【609】[feat._はしメロ,_巡巡]_ロックオン___MAISONdes_MAISONdes.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ロックオン (feat․ はしメロ, 巡巡)",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/07_ロックオン_(feat._はしメロ,_巡巡)_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ロックオン / Lock-on",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/08_ロックオン___Lock-on_MAISONdes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロックオン",
+      "artist": "MAISONdes, はしメロ, 巡巡",
+      "has_synced": false,
+      "path": "select/pl_01_ロックオン_MAISONdes,_はしメロ,_巡巡.txt"
+    }
+  ]
+}
